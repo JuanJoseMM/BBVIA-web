@@ -1,0 +1,29 @@
+a{
+text-decoration: none;
+}
+.bnavcolor{
+    background-color:#072146 ;
+}
+.letterwhite{
+    color:white;
+}
+.noborder{
+    border: 0px;
+}
+.list-group-item {
+    border:0 !important;
+    padding-top:20px !important;
+    padding-bottom:20px !important;
+}
+.card{
+    border-radius: 20px !important;
+}
+
+.mycard{
+    width: 250px;
+    height: auto;
+}
+
+.card{
+    display: inline-block !important;
+}
